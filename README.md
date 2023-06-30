@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arijit2299
 - 👀 I’m interested in AI&ML; DATA SCIENTIST
 - 🌱 I’m currently learning PYTHON;JAVA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arijitrana2299@gmail.com
 
 <!---
